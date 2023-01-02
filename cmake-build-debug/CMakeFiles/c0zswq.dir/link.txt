@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/c0zswq.dir/main.cpp.o  -o c0zswq 

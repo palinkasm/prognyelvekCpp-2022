@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/main.cpp
+iostream
+-
+pipe.h
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/pipe.h
+algorithm
+-
+pipe.h
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/pipe.h
+sstream
+-
+
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/pipe.h
+vector
+-
+

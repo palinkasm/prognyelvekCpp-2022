@@ -1,0 +1,3 @@
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Miki/OneDrive - Eotvos Lorand Tudomanyegyetem/Anyagok/4. SZEMESZTER/Programozási nyelvek C++/Beadandó/c0zswq/cmake-build-debug/CMakeFiles/c0zswq.dir
